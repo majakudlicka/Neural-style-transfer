@@ -1,2 +1,5 @@
-# neural_style_transfer
-Neural Style Transfer
+# Neural Style Transfer
+
+Machine learning algorithm performing Neural Style Transfer
+
+Completed following https://www.coursera.org/learn/convolutional-neural-networks

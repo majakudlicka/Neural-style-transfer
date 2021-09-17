@@ -1,3 +1,5 @@
+# Works on Python 3 or conda_tensorflow2_p36 kernel
+
 # Import statements
 
 import os
